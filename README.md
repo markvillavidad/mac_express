@@ -68,7 +68,6 @@ This is a React Prototype1 for MAC Express Inventory System
 * mac_express_inv.sql - basic stucture of the MySQL database
 
 #BackEnd - PHP
-#### New For Prototype 2 ####
 * Folders -  config, controller and model
 * Config - contain core.php and database.php
 * Controller - Only locations and organization folders
@@ -76,14 +75,12 @@ This is a React Prototype1 for MAC Express Inventory System
 
 
 #API links
-* * New For Prototype 2
 * http://localhost/mac_express/app/controller/locations/read.php
 * http://localhost/mac_express/app/controller/locations/read_one.php?id=1
 * http://localhost/mac_express/app/controller/organizations/read.php
 * http://localhost/mac_express/app/controller/organizations/read.php?id=1
 
 #Front End Links
-#### Same as Prototype 1 ####
 * http://localhost:8080
 * http://localhost:8080/login
 * http://localhost:8080/forget_password
@@ -91,6 +88,5 @@ This is a React Prototype1 for MAC Express Inventory System
 * http://localhost:8080/user-home
 * http://localhost:8080/inventory
 * http://localhost:8080/inventory/1
-#### New For Prototype 2 ####
 * http://localhost:8080/locations
 
